@@ -1,0 +1,17 @@
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\bin\Debug\net6.0-windows\Game2.exe
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\bin\Debug\net6.0-windows\Game2.deps.json
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\bin\Debug\net6.0-windows\Game2.runtimeconfig.json
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\bin\Debug\net6.0-windows\Game2.dll
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\bin\Debug\net6.0-windows\Game2.pdb
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.csproj.AssemblyReference.cache
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.MainForm.resources
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.csproj.GenerateResource.cache
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.AssemblyInfoInputs.cache
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.AssemblyInfo.cs
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.csproj.CoreCompileInputs.cache
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.dll
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\refint\Game2.dll
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.pdb
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\Game2.genruntimeconfig.cache
+C:\Users\Jamie.wbr\Desktop\Vendredi\3eme\APROG\Lights\Game2\obj\Debug\net6.0-windows\ref\Game2.dll
